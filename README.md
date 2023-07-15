@@ -5,7 +5,7 @@
        src="https://github.com/AltraMayor/gatekeeper/workflows/compile/badge.svg">
 </a>
 
-## What is Gatekeeper?
+## Gatekeeper nedir?
 
 Gatekeeper is the first open source DDoS protection system. It is designed to
 scale to any peak bandwidth, so it can withstand DDoS attacks both of today
